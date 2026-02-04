@@ -1,0 +1,8 @@
+
+{
+  "name": "Kailua Solar Repair - Expert Water Heater Services",
+  "description": "Professional solar water heater repair and maintenance services in Kailua, Hawaii. Features a smart AI diagnostic tool to troubleshoot common issues with secondary panels and circulation pumps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
